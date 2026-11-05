@@ -1,0 +1,6 @@
+{
+  "name": "Aura Fresh Laundry & Dry Cleaning",
+  "description": "Premium on-demand laundry, dry cleaning, and garment care with swift doorstep pickup, eco-friendly washing, and 24-hour turnaround.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
